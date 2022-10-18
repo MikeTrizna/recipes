@@ -4,6 +4,7 @@ Ingredients:
 - 2 tsp salt
 - jalapeno to taste
 - 1/2 onion
+- 1 green pepper
 
 Instructions:
 - cut and mash avocados
