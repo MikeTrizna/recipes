@@ -1,4 +1,4 @@
-# recipes
+# Avocado Recipes
 A collection of my avocado recipes
 
 * [Smoothie](avocado_smoothie.md)
