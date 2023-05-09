@@ -1,5 +1,5 @@
 # recipes
-A collection of my cooking recipes
+A collection of my avocado recipes
 
 * [Smoothie](avocado_smoothie.md)
 * [Guacamole](guacamole.md)
