@@ -15,3 +15,4 @@ Ingredients:
 
 Instructions:
 - Gently toss ingredients together and serve on a bed of fresh Bibb lettuce.
+- Eat it
